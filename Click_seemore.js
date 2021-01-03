@@ -26,7 +26,7 @@ else{
 	return;
 }
 
-}, 20000);
+}, 1000);
 }
 
 myFunction1();

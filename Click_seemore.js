@@ -1,4 +1,5 @@
-var myVar1;
+javascript:(function(){
+	var myVar1;
 var len1;
 var found = false;
 function myFunction2() {};
@@ -30,3 +31,4 @@ else{
 }
 
 myFunction1();
+})();

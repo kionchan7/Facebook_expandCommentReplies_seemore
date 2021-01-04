@@ -15,8 +15,8 @@ javascript:(function(){
 			}
 		}
 		if(found == true){
-			x[j].id = "hello";
-			var clickyou = document.getElementById('hello');
+			x[j].id = "id2021";
+			var clickyou = document.getElementById('id2021');
 			clickyou.click()
 		}
 		else{
